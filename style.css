@@ -71,4 +71,46 @@ a {
   border-radius: 5px;
 }
 
+section.information {
+  padding: 10px 350px;
+  margin-bottom: 100px;
+}
 
+h2.section-title {
+  font-size: 36px;
+  font-weight: 900px;
+  color: #1f2937;
+  text-align: center;
+  padding: 40px;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
+  padding: 10px 0px;
+}
+
+.cards img {
+  max-width: 190px;
+  max-height: 200px;
+  border: 3px solid #3882f6;
+  border-radius: 10px;
+  order: -1;
+}
+
+.card {
+  max-width: 160px;
+  max-height: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.card p {
+  color: slategray;
+  text-align: center;
+}
