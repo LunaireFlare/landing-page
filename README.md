@@ -15,7 +15,7 @@ This [landing page project](https://www.theodinproject.com/lessons/foundations-l
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Description
-**Live version**: available [here](lunaireflare.github.io/landing-page/).
+**Live version**: available [here](https://lunaireflare.github.io/landing-page/).
 
 The focal point of the project was to get comfortable using HTML and the flexbox layout to design and organize different sections of a landing page (navigation bar, hero header, footer...), all the while getting more familiar with the version control workflow.
 
